@@ -12,7 +12,7 @@ Adding Yemen
 
 ## [2024.11.27.01] - 2024-11-27
 
-2024-11-27
+Fixed missing update request icons (breaking change in WME v2.261)
 
 ## [2024.11.23.01] - 2024-11-23
 
